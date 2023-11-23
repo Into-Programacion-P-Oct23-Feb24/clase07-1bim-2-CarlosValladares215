@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+    Este codigo multiplica el valor del resultado, por el valor del numero,
+    al estar fijo el valor del numero, este codigo estaria realizando 
+    la potencia al cubo del numero por medio de multiplicaciones
+    
  */
 package ejemplos01;
 
