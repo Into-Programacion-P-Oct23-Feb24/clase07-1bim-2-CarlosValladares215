@@ -32,7 +32,8 @@ public class Ejemplo02 {
                     nota);
             entrada.nextLine(); // limpieza de buffer
 
-            System.out.println("Ingrese (s) si desea salir del ciclo ");
+            System.out.println("Ingrese (s), (si),(yes) o (y)"
+                    + "si desea salir del ciclo ");
             salida = entrada.nextLine();
 
             if (salida.equals("s") || salida.equals("si")
